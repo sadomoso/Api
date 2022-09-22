@@ -1,0 +1,15 @@
+.Formcontrol{
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    align-items: center;
+}
+
+.Formcontrol label{
+    font-weight: bold;
+}
+.Formcontrol input{
+    padding: 0.2em;
+    width: 15em;
+    margin-bottom: 1em;
+}

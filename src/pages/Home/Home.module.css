@@ -1,0 +1,42 @@
+.Formulario{
+    margin: 2em;
+    height: 30%;
+    margin: 8% 10%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+
+}
+.container p{
+    display: inline-flex;
+    color: black;
+    margin-left: 1%;
+    margin-top: 2%;
+
+}
+.container button{
+    background-color: brown;
+    color: aliceblue;
+    margin: 2%;
+    float: right;
+    width: 4em;
+    height: 1.8em;
+    border: none;
+    border-radius: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    size: 1em;
+}
+.NavLin{
+    background-color: brown;
+    color: aliceblue;
+    text-decoration: none;
+    margin: 2%;
+    float: right;
+    width: 4em;
+    height: 1.5em;
+    border: none;
+    size: 1em;
+}

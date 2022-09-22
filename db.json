@@ -1,0 +1,16 @@
+{
+  "cadastrados": [
+    {
+      "usuario": "Felipe",
+      "senha": "blaBLA",
+      "email": "fELIPE.FERREIRA@GMAIL",
+      "id": 4
+    },
+    {
+      "usuario": "feaf",
+      "senha": "fe",
+      "email": "feaf@fdad",
+      "id": 5
+    }
+  ]
+}
